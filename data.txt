@@ -1,0 +1,65 @@
+id,nomFic,extensionFic,sens,sensTexte
+1,"Alpsee, Schwangau, Germany by Rachel Davis via unsplash.com",".jpg",V,H
+2,"Apple by Olivier Miche via unsplash.com",".jpg",V,H
+3,"Astronaut by NASA via unsplash.com",".jpg",V,H
+4,"Books & cards by Annie Spratt via unsplash.com",".jpg",V,H
+5,"Bridge by Skyler Smith via unsplash.com",".jpg",V,V
+6,"Bryce Canyon National Park, Bryce, United States by Drew Hays via unsplash.com",".jpg",H,H
+7,"Canary Wharf, London, United Kingdom by Annie Spratt via unsplash.com",".jpg",V,H
+8,"Cape Nelson Lighthouse, Portland, Australia by Joshua Hibbert via unsplash.com",".jpg",H,H
+9,"Cave in Malta by Simon Wijers via unsplash.com",".jpg",V,H
+10,"Cedar Falls, United States by Drew Hays via unsplash.com",".jpg",H,H
+11,"Chantilly, France by Gabriel Ghnassia via unsplash.com",".jpg",V,H
+12,"Coffee by Desiree Fawn via unsplash.com",".jpg",V,V
+13,"Compass by Jon Ottosson via unsplash.com",".jpg",V,H
+14,"Computer by Dan Edwards via unsplash.com",".jpg",V,H
+15,"Dominican Republic by Dirk Sebregts via unsplash.com",".jpg",V,H
+16,"Don't just stand there by Jeff Sheldon via unsplash.com",".jpg",V,V
+17,"Feet by Alex Wong via unsplash.com",".jpg",V,H
+18,"Flowering tree by reza shayestehpour via unsplash.com",".jpg",V,V
+19,"Forrest bridge by Nick Scheerbart via unsplash.com",".jpg",V,H
+20,"Fushimi Inari Taisha, Kyoto, Japan by freddie marriage via unsplash.com",".jpg",V,H
+21,"Great Smoky Mountains, United States by Rachel Davis via unsplash.com",".jpg",V,H
+22,"Gäddede, Sweden by Jon Ottosson via unsplash.com",".jpg",V,H
+23,"Gällaryd, Värnamo Ö, Sweden by Jon Ottosson via unsplash.com",".jpg",V,H
+24,"Hands by Desiree Fawn via unsplash.com",".jpg",V,H
+25,"Heliport by Jon Ottosson via unsplash.com",".jpg",V,H
+26,"Hudson, New York, United States by Joe Beck via unsplash.com",".jpg",H,V
+27,"Indiana, United States by Evelyn Mostrom via unsplash.com",".jpg",H,H
+28,"Isles of Scilly, United Kingdom by Annie Spratt via unsplash.com",".jpg",H,V
+29,"Kent, United Kingdom by Dan Edwards via unsplash.com",".jpg",V,H
+30,"Lake Louise, Canada by Roberto Nickson via unsplash.com",".jpg",V,H
+31,"Lassen Volcanic National Park, Mineral, United States by Joshua Stannard via unsplash.com",".jpg",V,V
+32,"Letters by Joanna Kosinska via unsplash.com",".jpg",V,H
+33,"Lovers by Morgan Sessions via unsplash.com",".jpg",H,H
+34,"Lower Manhattan, One World Trade Center, New York, United States by Maxim Melnikov via unsplash.com",".jpg",H,H
+35,"Man's face, Venray, Nederland by Simon Wijers via unsplash.com",".jpg",V,H
+36,"Neuschwanstein Castle, Schwangau, Germany by Rachel Davis via unsplash.com",".jpg",V,H
+37,"New York, United States by Joe Beck via unsplash.com",".jpg",H,V
+38,"Old camera by Annie Spratt via unsplash.com",".jpg",H,V
+39,"Old plane by Jeff Sheldon via unsplash.com",".jpg",V,V
+40,"Parque Natural de Sintra-Cascais, Portugal by Manuel Inglez via unsplash.com",".jpg",V,H
+41,"Porto, Portugal by Samuel Zeller via unsplash.com",".jpg",V,H
+42,"Railway by Andrea Boldizsar via unsplash.com",".jpg",V,H
+43,"Road in Island by Jon Ottosson via unsplash.com",".jpg",V,V
+44,"Silberkarklamm, Austria by Florian Bernhardt via unsplash.com",".jpg",V,H
+45,"Sirenum Fossae, Mars by NASA via unsplash.com",".jpg",V,H
+46,"Smile by Lesly B. Juarez via unsplash.com",".jpg",V,H
+47,"Sparks by Morgan Sessions via unsplash.com",".jpg",V,H
+48,"Stockholm, Sweden by Jon Ottosson via unsplash.com",".jpg",V,H
+49,"Strom by NASA via unsplash.com",".jpg",V,H
+50,"Subway, New York by Brooke Cagle via unsplash.com",".jpg",H,H
+51,"Swing by Aaron Burden via unsplash.com",".jpg",V,V
+52,"Tallebudgera Creek, Australia by Christopher Campbell via unsplash.com",".jpg",V,V
+53,"Teriberka, Russia by Paul Itkin via unsplash.com",".jpg",V,H
+54,"The Fulton Center, New York, United States by Michael Fernandez via unsplash.com",".jpg",V,H
+55,"Norway by Marcelo Quinan via unsplash.com",".jpg",H,V
+56,"Valley by Jeff Sheldon via unsplash.com",".jpg",V,V
+57,"Venray, Nederland by Simon Wijers via unsplash.com",".jpg",V,H
+58,"Wind turbines by Andrea Boldizsar via unsplash.com",".jpg",V,H
+59,"Winter bath by Jeff Sheldon via unsplash.com",".jpg",H,V
+60,"Ukraine by Paul Itkin via unsplash.com",".jpg",V,H
+61,"Glacier Hikers by Claire Nolan via unsplash.com",".jpg",H,H
+62,"Rock destination by Mathias Jensen via unsplash.com",".jpg",V,H
+63,"Team spirit by Olga Guryanova via unsplash.com",".jpg",V,H
+64,"Console by Patryk Gradys via unsplash.com",".jpg",V,H
