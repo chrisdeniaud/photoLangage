@@ -8,8 +8,7 @@ Sa composition a pour but de permettre l'expression de divers types de populatio
 Quoi qu'il en soit, avec ce matériel, vous pouvez personnaliser celui-ci à volonté.
 
 ## Téléchargement
-Vous pouvez directement télécharger ce photolangage sous sa forme finale : un PDF en haut définition.
-(_En fait, vous pourrez bientôt le télécharger. Le fichier actuel fait 165Mo pour une limite de 100Mo sur GitHub ... je travaille sur la question_).
+Vous pouvez directement télécharger ce photolangage sous sa forme finale : [un PDF en haute définition (_Attention : 165 Mo_)](https://www.dropbox.com/s/imurd2aqfa7ei5b/photolangage.pdf).
 
 ## Modification du photolangage
 Ce photolangage est composé d'images libres de droits. La moindre des choses lors de leur exploitation est de citer les auteurs/artistes et la source à travers laquelle retrouver ces images.
