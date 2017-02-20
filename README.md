@@ -1,5 +1,7 @@
 # photoLangage
 Création d'un photolangage à base d'éléments libres.
+
+
 Ce projet fourni le nécessaire pour générer, sous forme d'un PDF haute définition, un photolangage que j'exploite régulièrement.
 Sa composition a pour but de permettre l'expression de divers types de population, à travers des éléments abstraits et des éléments concrets.
 
@@ -15,6 +17,7 @@ Ce photolangage est composé d'images libres de droits. La moindre des choses lo
 Ceci est réalisé à travers le freeware [nanDECK](http://www.nand.it/nandeck/) (_logiciel de création de jeux de cartes_).
 
 Pour compléter le set de photos déjà proposé, il suffit de :
+
 1. Compléter le fichier `data.txt` (_les noms de colonnes du fichier me semblent suffisament parlants_)
 2. Lancer l'exécutable `nanDECK.exe`
 3. Ouvrir le fichier `photolangage.txt`
