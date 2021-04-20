@@ -10,7 +10,7 @@ Quoi qu'il en soit, avec ce matériel, vous pouvez personnaliser celui-ci à vol
 ## Téléchargement
 Vous pouvez directement télécharger ce photolangage sous sa forme finale : [un PDF en haute définition (_Attention : 165 Mo_)](https://www.dropbox.com/s/imurd2aqfa7ei5b/photolangage.pdf).
 
-Je vous propose aussi un [template Klaxoon](https://www.dropbox.com/s/ours8qoxpm1325k/Photolangage.klx?dl=0) au cal où vous auriez besoin d'animer une séance à distance.
+Je vous propose aussi un [template Klaxoon](https://www.dropbox.com/s/ours8qoxpm1325k/Photolangage.klx?dl=0) au cas où vous auriez besoin d'animer une séance à distance.
 
 ## Modification du photolangage
 Ce photolangage est composé d'images libres de droits. La moindre des choses lors de leur exploitation est de citer les auteurs/artistes et la source à travers laquelle retrouver ces images.
