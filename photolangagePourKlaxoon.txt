@@ -1,0 +1,29 @@
+[largeur_page]=29.7
+[hauteur_page]=21
+PAGE=[hauteur_page],[largeur_page],LANDSCAPE,HV
+DPI=150
+CARDSIZE=[largeur_page],[hauteur_page]
+FOLDER="Photos"
+
+link="data.txt"
+[all]="1-{(id)}"
+[card_id]=[nomFic]
+[nomFicComplet]=join([nomFic],[extensionFic])
+[background]=#FFFFFF
+[backgroundNomFichier]=#FFFFFF
+[ink]=#000000
+rectangle=[all],0,0,100%,100%,[background]
+if=[sens]=V
+  image=[all],[nomFicComplet], 0, 0, [largeur_page], [hauteur_page], 0, P
+elseif=[sens]=H
+  image=[all],[nomFicComplet], 0, 0, [largeur_page], [hauteur_page], 270, P
+endif
+if=[sensTexte]=V
+  rectangle=[all],97%,0%,3%,100%,[backgroundNomFichier]
+  font=verdana,12,T,[ink],[background]
+  text=[all],[card_id],95%,5%,5%,100%,right,bottom,270
+elseif=[sensTexte]=H
+  rectangle=[all],0%,97%,100%,3%,[backgroundNomFichier]
+  font=verdana,12,T,[ink],[background]
+  text=[all],[card_id],0%,95%,97%,5%,right,bottom
+endif
